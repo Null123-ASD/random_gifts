@@ -13,7 +13,7 @@ class _ChatScreenState extends State<ChatScreen> {
   bool _isLoading = false;
 
   // 在這裡替換為你的 OpenAI API Key
-  final String apiKey = "sk-iy7aTLE5TvdRWt6Z9sqGqR7Kk8x3jK0zbVdJypVyemKe0AFJ";
+  final String apiKey = "OpenAI API Key";
 
   Future<void> _sendMessage(String message) async {
     setState(() {
@@ -23,7 +23,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     try {
       final response = await http.post(
-        Uri.parse("https://api.chatanywhere.tech/v1/chat/completions"),
+        Uri.parse("https://api.openai.com/v1/chat/completions"),
         headers: {
           "Authorization": "Bearer $apiKey",
           "Content-Type": "application/json",
