@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Now let me briefly introduce the technical architecture and highlights of this application.
 
 
@@ -23,3 +24,7 @@ firebase storage => future
 
 I originally wanted to use Firebase for cross-data, but uploading pictures to Firebase Storage requires payment, so it was not possible.
 Therefore, in future development, we can develop this aspect. Furthermore, you can cooperate with brand merchants to attract users to buy.
+=======
+# random_gifts
+The app not only helps users discover interesting gifts, but also allows users to customize their own gift lists through the DIY function. Managing your data via SQLite is a reasonable choice and supports the functionality you require very well.
+>>>>>>> 4b7d25e9d644dedaa5e3f02e707ec8266cd57a4d
