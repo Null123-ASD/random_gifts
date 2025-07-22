@@ -19,8 +19,3 @@
 # Chatbox integration: Real-time interaction makes the application more intelligent and interesting.
 
 
-firebase storage => future
-
-I originally wanted to use Firebase for cross-data, but uploading pictures to Firebase Storage requires payment, so it was not possible.
-Therefore, in future development, we can develop this aspect. Furthermore, you can cooperate with brand merchants to attract users to buy.
-
