@@ -20,7 +20,7 @@
 
 figma
 
-<img width="1375" height="1102" alt="image" src="https://github.com/user-attachments/assets/9e3197df-530b-4d24-8559-02e6a8e2f843" />
+<img width="1629" height="1092" alt="image" src="https://github.com/user-attachments/assets/fe16c482-74cd-4ed2-bd10-80a0dfeea36a" />
 
 
 video
